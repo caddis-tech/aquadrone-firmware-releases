@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "builds": [
+    {
+      "version": "1.2.0",
+      "channel": "stable",
+      "url": "https://github.com/caddis-tech/aquadrone-pico-firmware/releases/download/v1.2.0/AquaD_Pico_v1.2.0.uf2",
+      "sha256": "aa155feabdbcd773085e4dfd14fbce1f67d52c5248793413de49f07b8b622b36",
+      "size": 205312,
+      "released": "2026-07-30T21:18:04Z"
+    }
+  ]
+}
