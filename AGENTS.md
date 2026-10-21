@@ -23,4 +23,5 @@ This repository is public. Nothing in it may carry an internal identifier: no cl
 IDs, no CI secret names, no board numbers.
 
 There is nothing to check before a commit, because nothing is committed here by hand. A release
-here reaches every technician, so an assistant never creates, edits, or deletes one.
+here reaches every technician, so an assistant creates, edits, or deletes one only when the
+person explicitly asks, saying first that it reaches every technician.
